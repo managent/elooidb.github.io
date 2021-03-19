@@ -334,4 +334,7 @@ h2{
     .content{
         padding: 10px 25px;
     }
+    .card{
+        padding: 15px;
+    }
 }
