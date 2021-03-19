@@ -318,7 +318,7 @@ h2{
         display: none;
     }
     .nav_btns.top{
-        margin-top: 5px;
+        margin-top: 20px;
     }
     .logo{
         width: 40%;
@@ -336,5 +336,8 @@ h2{
     }
     .card{
         padding: 15px;
+    }
+    p{
+        font-weight:300;
     }
 }
